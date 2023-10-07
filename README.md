@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mykhailo</h1>
-<h3 align="center">I'm Backend Developer</h3>
+<h3 align="center">I'm Go Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woozie-10&label=Profile%20views&color=0e75b6&style=flat" alt="woozie-10" /> </p>
 
-- 🌱 I’m currently learning **Go**
+
 
 - 📫 How to reach me **deriuhin.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/woozie__10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="woozie__10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/woozie10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="woozie10" height="30" width="40" /></a>
 </p>
 
