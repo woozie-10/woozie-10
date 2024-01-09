@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mykhailo
-## 💫 About Me:
-🔭 I’m currently working on [first-rest-api](https://github.com/woozie-10/first-rest-api)<br>💬 Ask me about **Go, Docker, MySQL, PostgreSQL, MongoDB, Redis**<br>
+## About Me:
+🔭 I’m currently working on [first-rest-api](https://github.com/woozie-10/url-shortener)<br>💬 Ask me about **Go, Docker, MySQL, PostgreSQL, MongoDB, Redis**<br>
 
 
 ## 🌐 Socials:
