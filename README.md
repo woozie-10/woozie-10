@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mykhailo
 ## About Me:
-I am 16 years old.<br>🌍  I'm based in Ukraine<br>🔭 I’m currently working on [url-shortener-app](https://github.com/woozie-10/url-shortener-app)<br>💬 Ask me about **Go, Docker, MySQL, PostgreSQL, MongoDB, Redis**<br>
+I am 17 years old.<br>🌍  I'm based in Ukraine<br>🔭 I’m currently working on [url-shortener-app](https://github.com/woozie-10/url-shortener-app)<br>💬 Ask me about **Go, Docker, MySQL, PostgreSQL, MongoDB, Redis**<br>
 
 
 ## 🌐 Socials:
